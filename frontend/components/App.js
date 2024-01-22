@@ -24,7 +24,7 @@ function App() {
         console.log("Error: Couldn't find people array endpoint")
       })
   }, [])
-
+https://mail.google.com/mail/u/0/#inbox
   useEffect(() => {
     axios.get(urlPlanets)
       .then((res) => {
